@@ -15,3 +15,6 @@ Provides head-to-head comparisons with other IPL teams.
 
 Interactive filters for exploring different years, players, and venues.
 
+## 🖼️ Dashboard Preview
+
+<img width="1171" height="662" alt="image" src="https://github.com/user-attachments/assets/6b73e76b-39ab-4bdf-a2e9-8af5d8d36b82" />
